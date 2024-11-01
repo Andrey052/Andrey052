@@ -84,7 +84,8 @@
 
 ----
 
-## Статистика Github 📊
+## Научная деятельность
 
-| <a href="https://github.com/Andrey052/github-stats"><img align="center" src="https://github.com/Andrey052-projects.vercel.app/api?username=Andrey052&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=ru&rank_icon=github&hide=contribs,issues" alt="Andrey052's github stats" /></a> | <a href="https://github.com/Andrey052/github-stats"><img align="center" src="https://github-stats-Andrey052-projects.vercel.app/api/top-langs/?username=Andrey052&langs_count=8&layout=compact&theme=buefy&hide_border=true&locale=ru&card_width=400" alt="Andrey052 Top Languages"/></a> |
-| ------------- | -------------
+<a href="https://orcid.org/0000-0001-8886-0846">
+            <img src="/scr/icons/orcid.logo.svg" alt="ORCID" />
+            </a>&nbsp;&nbsp;
