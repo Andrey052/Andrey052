@@ -80,6 +80,24 @@
         <br>HTML
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <img src="/src/icons/unity.svg" width="48" height="48" alt="UNITY" />
+        <br>UNITY
+    </td>
+    <td align="center">
+        <img src="/src/icons/blender.svg" width="48" height="48" alt="BLENDER" />
+        <br>BLENDER
+    </td>
+    <td align="center">
+        <img src="/src/icons/csharp.svg" width="48" height="48" alt="C#" />
+        <br>C#
+    </td>
+    <td align="center">
+        <img src="/src/icons/webpack.svg" width="48" height="48" alt="Webpack" />
+        <br>HWebpack
+    </td>
+  </tr>
 </table>
 
 ----
