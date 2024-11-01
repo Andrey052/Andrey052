@@ -87,5 +87,5 @@
 ## Научная деятельность 🧠
 
 <a href="https://orcid.org/0000-0001-8886-0846">
-            <img src="/src/icons/orcid.svg" alt="ORCID" />
+            <img src="/src/icons/orcid.svg" width="48" height="48" alt="ORCID" />
             </a>&nbsp;&nbsp;
