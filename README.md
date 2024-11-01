@@ -107,3 +107,14 @@
 <a href="https://orcid.org/0000-0001-8886-0846">
             <img src="/src/icons/orcid-logo.svg" width="221" height="67" alt="ORCID" />
             </a>&nbsp;&nbsp;
+
+----
+
+## Статистика Github 📊
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey052&theme=white&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey052&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
