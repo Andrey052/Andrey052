@@ -112,7 +112,8 @@
 
 ## Статистика Github 📊
 
-| <a href="https://github.com/Andrey052"><img align="center" src="https://github.com/Andrey052-projects.vercel.app/api?username=Andrey052&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=ru&rank_icon=github&hide=contribs,issues" alt="" /></a> | <a href="https://github.com/Andrey052"><img align="center" src="https://github.com/Andrey052-projects.vercel.app/api/top-langs/?username=Andrey052&langs_count=8&layout=compact&theme=buefy&hide_border=true&locale=ru&card_width=400" alt=""/></a> |
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey052&theme=white&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey052&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 ----
 
