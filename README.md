@@ -97,6 +97,14 @@
         <img src="/src/icons/webpack.svg" width="48" height="48" alt="Webpack" />
         <br>Webpack
     </td>
+    <td align="center">
+        <img src="/src/icons/webpack.svg" width="48" height="48" alt="Webpack" />
+        <br>Webpack
+    </td>
+     <td align="center">
+        <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>    
   </tr>
 </table>
 
