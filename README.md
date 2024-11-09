@@ -100,7 +100,11 @@
      <td align="center">
         <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
-    </td>    
+    </td>
+          <td align="center">
+        <img src="/src/icons/oculus.svg" width="48" height="48" alt="Oculus" />
+        <br>Oculus
+    </td> 
   </tr>
 </table>
 
