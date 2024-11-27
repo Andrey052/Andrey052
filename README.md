@@ -26,10 +26,6 @@
         <br>JavaScript
     </td>
     <td align="center">
-        <img src="/src/icons/sass-icon.svg" width="65" height="65" alt="SASS" />
-        <br>SASS
-    </td>
-    <td align="center">
         <img src="/src/icons/react-icon.svg" width="65" height="65" alt="React" />
         <br>React
     </td>
