@@ -26,6 +26,10 @@
         <br>JavaScript
     </td>
     <td align="center">
+        <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>
+    <td align="center">
         <img src="/src/icons/react-icon.svg" width="65" height="65" alt="React" />
         <br>React
     </td>
@@ -93,11 +97,7 @@
         <img src="/src/icons/webpack.svg" width="48" height="48" alt="Webpack" />
         <br>Webpack
     </td>
-     <td align="center">
-        <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-    </td>
-          <td align="center">
+    <td align="center">
         <img src="/src/icons/oculus.svg" width="48" height="48" alt="Oculus" />
         <br>Oculus
     </td> 
