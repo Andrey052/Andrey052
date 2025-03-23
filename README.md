@@ -1,14 +1,3 @@
-<p align="center">
-        <a href="https://www.instagram.com/andreydemarev//">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-            </a>&nbsp;&nbsp;
-        <a href="https://vk.com/id2265571">
-            <img src="https://img.shields.io/badge/Вконтакте-%231DA1F2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте" />
-        </a>&nbsp;&nbsp;
-        <a href="https://t.me/AndreyD_52">
-            <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />  
-    </p>    
-</p>
 
 Привет! Меня зовут Андрей, я frontend и Unity разработчик. Мне нравится создавать интерактивные и увлекательные интерфейсы, которые сочетают функциональность и визуальную привлекательность. Я использую HTML, CSS и JavaScript для разработки, а также применяю навыки Unity для создания игровых проектов.
 
