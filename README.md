@@ -18,14 +18,10 @@
         <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
     </td>
-   /* <td align="center">
-        <img src="/src/icons/react-icon.svg" width="65" height="65" alt="React" />
-        <br>React */
-    </td>
     <td align="center">
-        <img src="/src/icons/Postman.svg" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>   
+        <img src="/src/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+    </td>
     <td align="center">
         <img src="/src/icons/CSS.svg" width="48" height="48" alt="CSS" />
         <br>CSS
@@ -40,10 +36,6 @@
     </td>
 </tr>
   <tr>
-    <td align="center">
-        <img src="/src/icons/Github-Dark.svg" width="48" height="48" alt="Github" />
-        <br>Github
-    </td>      
     <td align="center">
         <img src="/src/icons/jira.svg" width="48" height="48" alt="jira" />
         <br>Jira
@@ -60,14 +52,6 @@
         <img src="/src/icons/Npm-Dark.svg" width="48" height="48" alt="Npm" />
         <br>Npm
     </td>
-    <td align="center">
-        <img src="/src/icons/Babel.svg" width="48" height="48" alt="Babel" />
-        <br>Babel
-    </td>
-    <td align="center">
-        <img src="/src/icons/HTML.svg" width="48" height="48" alt="HTML" />
-        <br>HTML
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -81,10 +65,6 @@
     <td align="center">
         <img src="/src/icons/csharp.svg" width="48" height="48" alt="C#" />
         <br>C#
-    </td>
-    <td align="center">
-        <img src="/src/icons/webpack.svg" width="48" height="48" alt="Webpack" />
-        <br>Webpack
     </td>
     <td align="center">
         <img src="/src/icons/oculus.svg" width="48" height="48" alt="Oculus" />
