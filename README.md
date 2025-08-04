@@ -18,9 +18,9 @@
         <img src="/src/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
     </td>
-    <td align="center">
+   /* <td align="center">
         <img src="/src/icons/react-icon.svg" width="65" height="65" alt="React" />
-        <br>React
+        <br>React */
     </td>
     <td align="center">
         <img src="/src/icons/Postman.svg" width="48" height="48" alt="Postman" />
